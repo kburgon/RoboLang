@@ -1,0 +1,6 @@
+CMakeCache.txt
+*.cmake
+main.cpp
+Makefile
+robolang
+CMakeFiles/
