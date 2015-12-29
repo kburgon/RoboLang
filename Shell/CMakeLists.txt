@@ -1,0 +1,13 @@
+set(SOURCE
+    ${SOURCE}
+    ${CMAKE_CURRENT_SOURCE_DIR}/Parser.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/RoboShell.cpp
+    PARENT_SCOPE
+)
+
+set(HEADERS
+    ${HEADERS}
+    ${CMAKE_CURRENT_SOURCE_DIR}/Parser.hpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/RoboShell.hpp
+    PARENT_SCOPE
+)
